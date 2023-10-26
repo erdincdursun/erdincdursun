@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erdinc</h1>
 <h3 align="center">A passionate back-end developer from Turkey</h3>
 
-- 🔭 I’m currently working on [BtkAkademi_Asp.Net_Web_API](https://github.com/erdincdursun/BtkAkademi_Asp.Net_Web_API)
+- 🔭 I’m currently working on [BtkAkademi_Asp.Net_Web_API](https://github.com/erdincdursun/BlazorDictionary)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
