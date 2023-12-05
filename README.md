@@ -19,7 +19,5 @@
 
 
 
-![erdincdursun's github stats](https://github-readme-stats.vercel.app/api?username=erdincdursun&show_icons=true&theme=radical)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=erdincdursun)](https://github.com/erdincdursun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdincdursun)](https://github.com/erdincdursun/github-readme-stats)
 
