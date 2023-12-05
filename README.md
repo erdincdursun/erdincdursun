@@ -4,9 +4,10 @@
 - 🔭 I’m currently working on [BlazorDictionary](https://github.com/erdincdursun/BlazorDictionary)
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" src="https://images8.alphacoders.com/115/1156488.png" width="280" height="150"/>
 <p align="left">
 <a href="https://linkedin.com/in/erdincdursun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdincdursun" height="30" width="40" /></a>
-<img align="right" src="https://images8.alphacoders.com/115/1156488.png" width="280" height="150"/>
+
 </p>
 
 
