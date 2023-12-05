@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/erdincdursun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdincdursun" height="30" width="40" /></a>
 </p>
 <p align="right">
-<img src="https://images8.alphacoders.com/115/1156488.png" width="40" height="40"/>
+<img src="https://images8.alphacoders.com/115/1156488.png" width="100" height="100"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
