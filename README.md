@@ -19,6 +19,7 @@
 
 
 
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=erdincdursun)](https://github.com/erdincdursun/github-readme-stats)  
+![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=erdincdursuni&show_icons=true&theme=radical)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=erdincdursun)](https://github.com/erdincdursun/github-readme-stats)
 
