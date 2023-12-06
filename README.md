@@ -1,4 +1,4 @@
-![MasterHead](https://images8.alphacoders.com/115/1156488.png)height="30" width="40"
+![MasterHead ](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*sV60JhlYL4IdWjcNvKTJRA.png)
 
 <h1 align="center">Hi 👋, I'm Erdinc</h1>
 <h3 align="center">A passionate back-end developer from Turkey</h3>
