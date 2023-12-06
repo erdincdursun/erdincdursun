@@ -5,6 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdincdursun&label=Profile%20views&color=0e75b6&style=flat" alt="erdincdursun" /> </p>
 
+<div align="center">
+ <a href="https://github.com/erdincdursun">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Erdinç+Dursun+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
+
+
+
 - 🔭 I’m currently working on [DataStructuresAndAlgorithms](https://github.com/erdincdursun/DataStructuresAndAlgorithms)
 
 - 🌱 I’m currently learning **Asp.Net Web API**
